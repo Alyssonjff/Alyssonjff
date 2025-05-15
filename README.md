@@ -1,5 +1,5 @@
-### Olá, Sou o Alysson Ferreira✌️
-## Atualmente estou cursando o 6° Semestre ( finalizando o terceiro Ano) de Sistemnas de informação
+### Olá, Meu nome é Alysson José De França Ferreira✌️
+## Atualmente estou cursando o 7° Semestre de Sistemnas de informação
 
 [![Linkedim](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alysson-ferreira-7676b6226/)
 

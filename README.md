@@ -1,11 +1,11 @@
-### Olá, Meu nome é Alysson José De França Ferreira✌️
-## Atualmente estou cursando o 7° Semestre de Sistemnas de informação
+### Prazer, seja bem vindo ao Meu GitHub
+## Cursando Sistemnas de informação
 
 [![Linkedim](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alysson-ferreira-7676b6226/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyssonjff&layout=donut-vertical)](https://github.com/alyssonjff/github-readme-stats)
 
-### Tecnologias que uso no dia a dia
+### Linguagens mais usadas
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />

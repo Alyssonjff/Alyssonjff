@@ -1,5 +1,5 @@
 ### Prazer, seja bem vindo ao Meu GitHub
-## Cursando Sistemnas de informação
+## Cursando Sistemas de informação
 
 [![Linkedim](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alysson-ferreira-7676b6226/)
 
